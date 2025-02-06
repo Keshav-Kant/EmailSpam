@@ -6,9 +6,6 @@ This is a Python-based email spam classification project that uses machine learn
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
